@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GankTwo</string>
+
+
+    <string name="night_mode">夜间模式</string>
+    <string name="feedback">反馈</string>
+    <string name="scan">扫一扫</string>
+    <string name="exit">退出登录</string>
+    <string name="settings">设置</string>
+    <string name="click_enter">点我登录</string>
+
+    <string name="all">ALL</string>
+    <string name="fuli">福利</string>
+    <string name="xiuxishiping">休息视频</string>
+    <string name="android">Android</string>
+
+    <string name="no_network">无网络</string>
+
+</resources>
